@@ -1,1 +1,1 @@
-# Foundations-of-BA
+# mgs3101-retail-tutorial
